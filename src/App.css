@@ -1,0 +1,28 @@
+#root {
+  margin: 0;
+  background-color: #212529;
+}
+
+.myBg {
+  height: 100vh;
+  background: url('./assets/images/bg/main.jpg');
+  background-size: cover;
+}
+
+.header {
+  height: 300px;
+}
+
+.title {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height:1;
+  letter-spacing: 2px;
+  text-shadow:  2px 2px black;
+}
+
+.trending {
+  height: auto;
+  background-color: black;
+}
