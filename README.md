@@ -1,8 +1,30 @@
-# React + Vite
+# FilmFinder: Movie Search Application  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover and search for your favorite movies with this intuitive and responsive web app.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+
+- **Movie Discovery:**  
+  Search and explore movies from an external API.  
+
+- **Responsive Design:**  
+  Built with **Bootstrap** for seamless viewing across devices.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React, Vite  
+- **Styling:** Bootstrap  
+- **API Integration:** Axios  
+
+---
+
+## 🔧 Installation  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/kuntowck/movie-app.git
+   cd movie-app
